@@ -1,5 +1,5 @@
 # Exomanz
-I'm a Plugin and Tool developer for Beat Saber. You may know some of my projects, such as [UITweaks](https://github.com/Exomanz/UITweaks), [ConsistentSaberColors](https://github.com/Exomanz/ConsistentSaberColors), and [ComboSplitter](https://github.com/Exomanz/ComboSplitter).
+I'm a Plugin and Tool developer for Beat Saber. You may know some of my projects, such as [UITweaks](https://github.com/Exomanz/UITweaks), [MenuSaberColors](https://github.com/Exomanz/MenuSaberColors), and [ComboSplitter](https://github.com/Exomanz/ComboSplitter).
 
 ## If you like what I'm working on, consider supprting me on Ko-fi!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O675HY1)
