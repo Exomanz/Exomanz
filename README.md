@@ -1,7 +1,9 @@
-# Exomanz
+# Exomanz - Beat Saber Modder
 I'm a Plugin and Tool developer for Beat Saber. You may know some of my projects, such as [UITweaks](https://github.com/Exomanz/UITweaks), [MenuSaberColors](https://github.com/Exomanz/MenuSaberColors), and [ComboSplitter](https://github.com/Exomanz/ComboSplitter).
 
-## If you like what I'm working on, consider supprting me on Ko-fi!
+## Support Me:
+I make these mods voluntarily. If you enjoy what I make and want to see more content from me in the future, consider supporting me on Ko-fi. Every little bit helps! 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O675HY1)
 
 <!--
