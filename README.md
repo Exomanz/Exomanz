@@ -3,7 +3,7 @@
 
 I got into C# development in late 2020, and have been mostly making mods and tools for Beat Saber since then. Some of my most notable projects include [UITweaks](https://github.com/Exomanz/UITweaks) and [MenuSaberColors](https://github.com/Exomanz/MenuSaberColors). 
 
-## Commissions - Closed Until May 16
+## Commissions
 Got an awesome idea for a mod? Let's talk!
 You can find all of my commission info (TOS, Pricing, etc) [here](https://github.com/Exomanz/BSCommissionInfo)!
 
