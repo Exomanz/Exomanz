@@ -1,4 +1,4 @@
-# Exo (they/them)
+# Exo
 20-year old college student and hobbyist developer; currently studying Computer Support and Network Administration
 
 I got into C# development in late 2020, and have been mostly making mods and tools for Beat Saber since then. Some of my most notable projects include [UITweaks](https://github.com/Exomanz/UITweaks) and [MenuSaberColors](https://github.com/Exomanz/MenuSaberColors). 
