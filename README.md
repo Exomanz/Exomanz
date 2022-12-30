@@ -1,9 +1,9 @@
-# Exo(manz)
+# Exo
 20-year old college student and hobbyist developer; currently studying Computer Support and Network Administration
 
-I got into C# development in late 2020, and have been mostly making mods and tools for Beat Saber since then. Some of my most notable projects include [UITweaks](https://github.com/Exomanz/UITweaks) and [MenuSaberColors](https://github.com/Exomanz/MenuSaberColors). 
+I got into C# development in late 2020 and have been mostly making mods and tools for Beat Saber since then. Some of my most notable projects include [UITweaks](../../../UITweaks), [BetterStaticLights](../../../BetterStaticLights) and [MenuSaberColors](../../../MenuSaberColors). 
 
-## Commissions
+## Commissions [CLOSED UNTIL FURTHER NOTICE]
 Got an awesome idea for a mod? Let's talk!
 You can find all of my commission info (TOS, Pricing, etc) [here](https://github.com/Exomanz/BSCommissionInfo)!
 
