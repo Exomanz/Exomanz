@@ -1,5 +1,5 @@
 # Boots - Beat Saber Modder
-20-year old college student and hobbyist developer; studying Computer Support and Software Development.
+20-year old college student and hobbyist developer.
 
 ## Notable Projects
 - [UITweaks](../../../UITweaks)
