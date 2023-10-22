@@ -1,4 +1,4 @@
-# Boots - Beat Saber Modder
+# Boots (Exomanz)
 20-year old college student and hobbyist developer.
 
 ## Notable Projects
