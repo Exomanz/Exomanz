@@ -1,5 +1,7 @@
-# Boots (Exomanz)
-20-year old college student and hobbyist developer.
+# [Puss in] Boots (Exomanz)
+21-year old college student and hobbyist developer. 
+
+C#, JS, and Python
 
 ## Notable Projects
 - [UITweaks](../../../UITweaks)
