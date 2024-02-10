@@ -1,4 +1,4 @@
 # Exomanz
-21-year old college student and hobbyist developer. 
+21-year old hobbyist developer. 
 
 C#, JavsScript, and Python.
