@@ -4,4 +4,4 @@
 Some of my notable contributions include:
 - [UITweaks](https://github.com/Exomanz/UITweaks)
 - [MenuSaberColors](https://github.com/Exomanz/UITweaks)
-- Bloom Support for [HitScoreVisualizer](https://github.com/ErisApps/HitScoreVisualizer/pull/10)
+- 
