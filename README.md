@@ -4,3 +4,4 @@
 Some of my notable contributions include:
 - [UITweaks](https://github.com/Exomanz/UITweaks)
 - [MenuSaberColors](https://github.com/Exomanz/UITweaks)
+- [BetterLegacyLights](https://github.com/Exomanz/BetterLegacyLights)
